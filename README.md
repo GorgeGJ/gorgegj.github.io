@@ -1,4 +1,4 @@
-# gorgegj.github.io
+# Data Scientist
 
 ### Education
 
